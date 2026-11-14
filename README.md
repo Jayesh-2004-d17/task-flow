@@ -8,8 +8,8 @@ This project is developed as part of the Sankar Group – Front-End Development 
 
 ## 🚀 Live Demo
 
-- Live Website: [Add Your Vercel Deployment Link]
-- GitHub Repository: [Add Your GitHub Repository Link]
+- Live Website: https://task-flow-f1sg.vercel.app/
+- GitHub Repository: https://github.com/Jayesh-2004-d17/task-flow
 
 ## ✨ Features
 
@@ -131,7 +131,7 @@ This project uses browser LocalStorage to store task information locally.
 
 ## 🔒 Project Scope
 
-This is a **frontend-only application**.
+This is a frontend-only application.
 
 The following are not included:
 - Backend development
@@ -161,7 +161,7 @@ Jayesh Dharmik
 
 Front-End Developer | React.js Developer
 
-GitHub: [Jayesh-2004-d17](https://github.com/Jayesh-2004-d17)
+GitHub: https://github.com/Jayesh-2004-d17/task-flow
 
 ## 📄 Assignment
 
