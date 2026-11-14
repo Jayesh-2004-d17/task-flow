@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow - Premium SaaS Task Management",
+  "description": "Manage tasks, track progress, and achieve more with TaskFlow - a modern task management platform and interactive workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
